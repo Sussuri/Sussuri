@@ -1,7 +1,8 @@
 <img src="https://media.giphy.com/media/Lul6oYdSkS8fK/giphy.gif" align="left" style="width: 100%" />
 
 <pre>
- <h3><div align="center">I'm Adam, an IT Talent Acquisition Specialist 🧙‍♂️ and web developer 👨‍💻 working at CloudTalk 💙</div></h3>
+ <h3><div align="center">I'm Adam, an IT Talent Acquisition Specialist 🧙‍♂️ and web developer 👨‍💻 
+ working at CloudTalk 💙</div></h3>
 </pre>
 
   
