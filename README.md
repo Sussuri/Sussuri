@@ -47,7 +47,7 @@
 <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="WordPress" height="50" />  
 <img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/109_Elementor_logo_logos-512.png" alt="Elementor" height="50" />
 <img style="margin: 10px" src="https://crocoblock.com/wp-content/uploads/2019/09/crocoblock-graph.jpg" alt="Crocoblock" height="50" />
-<img style="margin: 10px" src="https://www.vhv.rs/dpng/d/367-3678691_divi-logo-divi-page-builder-logo-hd-png.png" alt="Divi" height="50" />
+<img style="margin: 10px" src="https://www.websults.com/wp-content/uploads/Divi.jpg" alt="Divi" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1200px-Webysther_20160423_-_Elephpant.svg.png" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://www.freebsdnews.com/wp-content/uploads/mongodb.png" alt="MongoDB" height="50" />    
